@@ -7,12 +7,14 @@ int main() {
     scanf("%d", &number);
     if (number % 2 == 0)
         printf("%d is even.\n", number);
-    //use if else statement not edited
+    //use if else statement edited
     else
         printf("%d is odd.\n", number);
 
     return 0;
 }
+
 //commit5
 //commit6
 //commit7
+////all commits done
